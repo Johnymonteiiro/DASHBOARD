@@ -15,7 +15,7 @@
 ```git clone ```
 
 2. Entre na pasta:
-```cd reactproject```
+```cd DASHBOARD```
 
 3. instale a dependencia:
 
@@ -23,7 +23,9 @@
 ```npm install```
 
 4. inicializa o db.json na pasta Backend:
+
 ``` 1- Click no mouse direito em seguida Open in Integrated Terninal```
+
 ``` 2- json-server --watch db.json```
 
 5. Arquivo raiz:
